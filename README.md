@@ -1,4 +1,4 @@
-# 🚀 Rahima Malik - Personal Portfolio
+# 🚀 Rahima Malik -  Portfolio
 
 Welcome to my personal portfolio repository! This is a responsive, Swiss Modernism-inspired website built to showcase my journey as a Data Science student, my technical skills, and the projects I've built using Python and C++.
 
